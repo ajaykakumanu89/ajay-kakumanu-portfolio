@@ -12,7 +12,18 @@ I build utilities that help writers check content and maintain structured docume
 
 In one documentation verification exercise for emulation products covering about 110 links, automation reduced manual link-verification effort by approximately 50%. That result describes this specific exercise.
 
-I've also created utilities for DITAMAP/PDF bulk renaming and worked on structured conversion involving Doxygen and DITA. Browser-based HTML review and Oxygen feedback workflow improvements are prototypes.
+I've also created utilities for DITAMAP/PDF bulk renaming and worked on structured conversion involving Doxygen and DITA.
+
+## Integration engineering
+
+I designed and prototyped a web-based HTML documentation review system to modernize traditional PDF-based reviews. The prototype brings review feedback into the context of the documentation and focuses on four areas:
+
+- **Contextual inline commenting:** associate reviewer comments with the relevant HTML content so writers can understand feedback in context.
+- **Multi-reviewer collaboration:** support contributions from multiple reviewers within a shared documentation review workflow.
+- **Feedback tracking:** make comments and follow-up documentation changes easier to track throughout the review cycle.
+- **Oxygen XML Editor integration:** connect browser-based feedback with the writer's structured content authoring environment.
+
+The solution aims to streamline review cycles, improve feedback traceability, and help writers incorporate reviewer comments directly into structured documentation workflows. The intended workflow follows docs-as-code principles by connecting collaborative review with traceable changes to documentation source. This work is a prototype; the benefits described are design goals.
 
 ## AI-assisted documentation
 

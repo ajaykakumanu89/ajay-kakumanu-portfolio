@@ -13,13 +13,15 @@ Staff Technical Writer with 15 years of experience spanning enterprise software,
 - **Technical content:** API and command references, developer/integration guides, installation and configuration, release notes, contextual help and UX microcopy.
 - **Authoring and delivery:** Git, Perforce, Markdown, DITA/XML, DITAMAP, Oxygen XML Editor, HTML, CCMS, and Agile/Jira-based reviews.
 - **Documentation engineering:** Python automation, broken-link checks, HTML/PDF QA, version/date checks, structured-content conversion and Excel reporting.
+- **Integration engineering:** Web-based HTML documentation review prototypes, contextual inline commenting, multi-reviewer collaboration, feedback tracking and Oxygen XML Editor integration aligned with docs-as-code principles.
 - **Cross-functional execution:** Engineering/SME collaboration, reading technical source material, testing documented procedures, technical editing and mentoring.
 
 ## Selected results and projects
 
 - Developed a Python-based workflow to validate documentation for emulation products, checking local HTML/help links, PDF content overflow and version/date metadata and producing actionable Excel reports.
 - Reduced manual link-verification effort by approximately 50% in one documentation verification exercise for emulation products covering about 110 links.
-- Created documentation utilities for DITAMAP/PDF bulk renaming and structured conversion work involving Doxygen and DITA; prototyped improvements to browser-based HTML review and Oxygen feedback workflows.
+- Created documentation utilities for DITAMAP/PDF bulk renaming and structured conversion work involving Doxygen and DITA.
+- Designed and prototyped a web-based HTML documentation review system to modernize traditional PDF-based reviews, focusing on contextual inline commenting, multi-reviewer collaboration, feedback tracking and Oxygen XML Editor integration. The solution aims to streamline review cycles, improve feedback traceability and help writers incorporate reviewer comments directly into structured documentation workflows that follow docs-as-code principles.
 
 ## Professional experience
 
