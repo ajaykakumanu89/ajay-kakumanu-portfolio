@@ -1,0 +1,34 @@
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Personal source documents and unreviewed material
+private/
+*.docx
+*.pdf
+*.xlsx
+*.zip
+*.rar
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated site and local reports
+site/
+build/
+dist/
+reports/
