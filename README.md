@@ -68,4 +68,4 @@ Based in Hyderabad, India. Open to international opportunities, including reloca
 
 ## Publication status
 
-This repository is prepared locally. A GitHub remote, public website, and content license must be selected separately. See [publishing instructions](docs/publishing.md) and the [content review](docs/content-review.md) before sharing externally.
+This portfolio is prepared for public sharing on GitHub under `ajaykakumanu89/ajay-kakumanu-portfolio`. The sample review status is listed above. A public website and content license have not been selected. See [publishing instructions](docs/publishing.md) and the [content review](docs/content-review.md).

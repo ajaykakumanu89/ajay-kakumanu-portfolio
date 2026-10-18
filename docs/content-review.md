@@ -24,6 +24,6 @@ The AI-assisted documentation piece is a brief. Replace its planned sections wit
 
 ## Hosting and reuse
 
-Choose whether the remote repository will be private or public. Review staged files before pushing. A reuse license has not been selected; choose one deliberately for original content and code if you want others to reuse them.
+The selected GitHub repository visibility is public, under the `ajaykakumanu89` account. Review files before pushing. A reuse license has not been selected; choose one deliberately for original content and code if you want others to reuse them.
 
 The local checks do not establish publication permission or verify external career claims.
