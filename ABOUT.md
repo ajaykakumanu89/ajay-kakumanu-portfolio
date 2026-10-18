@@ -43,6 +43,6 @@ Project pages identify independent examples and prototypes and explain the conte
 
 My experience includes API and command references, developer and integration guides, installation and configuration instructions, release notes, contextual help, and UX microcopy. I work with Python, Git, Perforce, Markdown, DITA/XML, DITAMAP, HTML, Oxygen XML Editor, and documentation publishing and review workflows.
 
-I hold a B.Sc. Avionics qualification from Singhania University and studied Aircraft Maintenance Engineering at Rajiv Gandhi Aviation Academy, Hyderabad. I'm open to international opportunities, including relocation to Stockholm.
+I hold a B.Sc. Avionics qualification from Singhania University and studied Aircraft Maintenance Engineering at Rajiv Gandhi Aviation Academy, Hyderabad.
 
 [Read my resume](resume.md) · [Connect on LinkedIn](https://www.linkedin.com/in/ajay-kakumanu-608403162/)
