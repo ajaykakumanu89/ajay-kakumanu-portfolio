@@ -4,13 +4,13 @@ I make complex software easier to understand, use, and troubleshoot.
 
 I'm a Staff Technical Writer with 15 years of experience across enterprise software, semiconductor EDA, automotive, and aerospace documentation. I translate complex technical behavior into developer references, task-based guides, online help, and release communications. My work combines structured authoring, Git-based workflows, product verification, and Python automation.
 
-At Synopsys, I document ZeBu emulation, ProtoCompiler, transactors, memory models, and related developer workflows. I work with R&D and application engineers to interpret requirements, validate documented procedures, and resolve technical discrepancies before publication.
+At Synopsys, I document emulation products and related developer workflows. I work with R&D and application engineers to interpret requirements, validate documented procedures, and resolve technical discrepancies before publication.
 
 ## Documentation engineering
 
 I build utilities that help writers check content and maintain structured documentation. My professional projects include a Python-based validation workflow for local HTML/help links, PDF content overflow, and version/date metadata, with actionable Excel reports.
 
-In a Transactors and Memory Models verification exercise covering about 110 links, automation reduced manual link-verification effort by approximately 50%. That result describes this specific exercise.
+In one documentation verification exercise for emulation products covering about 110 links, automation reduced manual link-verification effort by approximately 50%. That result describes this specific exercise.
 
 I've also created utilities for DITAMAP/PDF bulk renaming and worked on structured conversion involving Doxygen and DITA. Browser-based HTML review and Oxygen feedback workflow improvements are prototypes.
 

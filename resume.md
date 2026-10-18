@@ -17,8 +17,8 @@ Staff Technical Writer with 15 years of experience spanning enterprise software,
 
 ## Selected results and projects
 
-- Developed a Python-based validation workflow for SolvNetPlus documentation that checks local HTML/help links, PDF content overflow and version/date metadata, producing actionable Excel reports.
-- Reduced manual link-verification effort by approximately 50% in a Transactors and Memory Models verification exercise covering about 110 links.
+- Developed a Python-based workflow to validate documentation for emulation products, checking local HTML/help links, PDF content overflow and version/date metadata and producing actionable Excel reports.
+- Reduced manual link-verification effort by approximately 50% in one documentation verification exercise for emulation products covering about 110 links.
 - Created documentation utilities for DITAMAP/PDF bulk renaming and structured conversion work involving Doxygen and DITA; prototyped improvements to browser-based HTML review and Oxygen feedback workflows.
 
 ## Professional experience
@@ -27,7 +27,7 @@ Staff Technical Writer with 15 years of experience spanning enterprise software,
 
 Nov 2024–Present · Hyderabad
 
-- Document ZeBu emulation, ProtoCompiler, transactors, memory models and related developer workflows through technical guides, command/API content, release notes and online help.
+- Document emulation products and related developer workflows through technical guides, command/API content, release notes and online help.
 - Work with R&D and application engineers to interpret requirements and technical changes, validate steps against specifications and source material, and resolve discrepancies before publishing.
 - Manage structured DITA content and publishing deliverables with Oxygen XML Editor and Git/Perforce workflows across releases.
 - Build and refine Python-powered documentation checks; use AI to support research, drafting and review while verifying technical statements against authoritative sources.
