@@ -6,11 +6,11 @@ This review records the concrete decisions still needed before the starter becom
 
 The public resume is based on the resume supplied on October 18, 2026. It omits the telephone number, precise postal information, and the original DOCX. LinkedIn is the contact link.
 
-Confirm the preferred job titles, employment dates, education wording, and relocation statement before public release. The source lists B.Sc. Avionics at Singhania University and Aircraft Maintenance Engineering at Rajiv Gandhi Aviation Academy; these are separate qualifications.
+Confirm the preferred job titles, employment dates, and education wording before public release. The source lists B.Sc. Avionics at Singhania University and Aircraft Maintenance Engineering at Rajiv Gandhi Aviation Academy; these are separate qualifications.
 
 ## Career case study
 
-The reported approximately 50% improvement concerns manual link verification in one exercise covering about 110 links. It does not demonstrate that all documentation verification was halved. The public demonstration uses synthetic files and is separate from the employer workflow.
+The reported approximately 50% improvement concerns manual link verification in one exercise covering over 100 links. It does not demonstrate that all documentation verification was halved. The public demonstration uses synthetic files and is separate from the employer workflow.
 
 Before sharing employer material, obtain permission from the owner and follow any restrictions. Replacing names or branding does not by itself grant publication rights. No employer source documents or code are included here.
 

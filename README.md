@@ -2,7 +2,7 @@
 
 Staff Technical Writer | Developer documentation | Documentation automation
 
-I create documentation that helps people understand, use, and troubleshoot software. My work combines 15 years of technical-writing experience with API and command references, structured content, Python automation, and critically reviewed AI-assisted workflows.
+I create documentation that helps people understand, use, and troubleshoot software. My work combines 15 years of technical-writing experience with API and command references, structured content, Python automation, and critically reviewed AI-assisted workflows. I also structure documentation for accurate knowledge-assistant retrieval and agent-ready engineering tasks.
 
 ## Selected work
 
@@ -18,9 +18,9 @@ The initial sample code and documentation were drafted with AI assistance. Ajay'
 
 ## Professional background
 
-I am a Staff Technical Writer at Synopsys. My experience spans enterprise software, semiconductor EDA, automotive, and aerospace documentation. I work with engineers and product teams to turn technical information into developer guides, API references, task-based instructions, release notes, and online help.
+I am a Staff Technical Writer at Synopsys. My experience spans enterprise software, semiconductor EDA, automotive, and aerospace documentation. I work with engineers and product teams to turn technical information into developer guides, API references, task-based instructions, release notes, and online help. My task, command, and API topics identify inputs, expected results, and constraints; retrieval-focused topics provide self-contained answers with product-version context.
 
-I also build tools to check documentation and reduce repetitive verification work. My resume reports approximately 50% less manual link-verification effort in one exercise covering about 110 links. That figure applies to that exercise; it is not a benchmark for the public demonstration in this repository.
+I also build tools to check documentation and reduce repetitive verification work. My resume reports approximately 50% less manual link-verification effort in one exercise covering over 100 links. That figure applies to that exercise; it is not a benchmark for the public demonstration in this repository.
 
 - [About my approach](ABOUT.md)
 - [Professional resume](resume.md)
@@ -64,7 +64,7 @@ This checks local Markdown file links and required portfolio files. It does not 
 
 [LinkedIn](https://www.linkedin.com/in/ajay-kakumanu-608403162/)
 
-Based in Hyderabad, India. Open to international opportunities, including relocation to Stockholm.
+Based in Hyderabad, India.
 
 ## Publication status
 

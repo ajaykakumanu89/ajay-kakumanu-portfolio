@@ -10,7 +10,7 @@ At Synopsys, I document emulation products and related developer workflows. I wo
 
 I build utilities that help writers check content and maintain structured documentation. My professional projects include a Python-based validation workflow for local HTML/help links, PDF content overflow, and version/date metadata, with actionable Excel reports.
 
-In one documentation verification exercise for emulation products covering about 110 links, automation reduced manual link-verification effort by approximately 50%. That result describes this specific exercise.
+In one documentation verification exercise for emulation products covering over 100 links, automation reduced manual link-verification effort by approximately 50%. That result describes this specific exercise.
 
 I've also created utilities for DITAMAP/PDF bulk renaming and worked on structured conversion involving Doxygen and DITA.
 
@@ -27,7 +27,7 @@ The solution aims to streamline review cycles, improve feedback traceability, an
 
 ## AI-assisted documentation
 
-I use AI tools for research, early drafts, and editorial checks. Before publication, I evaluate outputs against product behavior, source code, tickets, and SME feedback. My interests include documentation for people and AI-assisted discovery: concise task-based topics, precise terminology, source-grounded content, and repeatable quality checks.
+I use AI tools for research, early drafts, and editorial checks. Before publication, I evaluate outputs against product behavior, source code, tickets, and SME feedback. I write documentation for people and AI-assisted discovery using concise task-based topics, precise terminology, source-grounded content, and repeatable quality checks. For agent-ready workflows, I document inputs, expected results, and constraints. For knowledge-assistant retrieval, I keep one question per topic, put the answer first, name the product version, and review each topic as a self-contained retrieved chunk without mixing foundational procedures with expert troubleshooting.
 
 ## Portfolio focus
 

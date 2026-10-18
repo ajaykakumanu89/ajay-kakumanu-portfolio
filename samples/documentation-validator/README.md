@@ -8,7 +8,7 @@ Large help deliveries need repeatable checks for links, layout problems, and rel
 
 ## Relevant professional experience
 
-My resume describes a Python workflow that checked local HTML/help links, PDF overflow, and version/date metadata, with results collected in Excel reports. In one exercise involving approximately 110 links in documentation for emulation products, manual link-verification work was reduced by approximately 50%.
+My resume describes a Python workflow that checked local HTML/help links, PDF overflow, and version/date metadata, with results collected in Excel reports. In one exercise involving over 100 links in documentation for emulation products, manual link-verification work was reduced by approximately 50%.
 
 That figure is a resume-reported result for that specific exercise. It is not a benchmark for this public demonstration or a claim about overall documentation productivity. Timing records, a reproducible before/after measurement, and independent confirmation are not included here.
 
