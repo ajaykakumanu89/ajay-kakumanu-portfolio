@@ -28,7 +28,8 @@ Thumbs.db
 Desktop.ini
 
 # Generated site and local reports
-site/
+site/dist/
+site/node_modules/
 build/
 dist/
 reports/

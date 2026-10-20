@@ -1,0 +1,14 @@
+{
+  "name": "ajay-kakumanu-portfolio-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static portfolio generated from the repository's public Markdown samples.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check-site.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "dependencies": { "marked": "17.0.5" }
+}

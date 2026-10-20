@@ -1,41 +1,37 @@
-# Git repository and publication
+# Git repository and website publication
 
-## Local repository
+## Repository and audience
 
-The portfolio is an independent Git repository on branch `main`, with an initial commit. Its repository-specific author identity is Ajay Kakumanu, `ajaykakumanu@outlook.com`. Run commands from its root directory.
+- Public repository: [ajaykakumanu89/ajay-kakumanu-portfolio](https://github.com/ajaykakumanu89/ajay-kakumanu-portfolio).
+- Website address: [Ajay Kakumanu’s portfolio](https://ajaykakumanu89.github.io/ajay-kakumanu-portfolio/).
+- Website source: `site/`, plus the explicitly selected public Markdown files in the builder.
+- Publishing workflow: [Publish portfolio](../.github/workflows/pages.yml).
 
-```powershell
+Publication was approved on October 20, 2026. The original resume documents, LinkedIn screenshots, unrelated HTML-review project, and confidential DocFusion guide are not included. Sample status and AI-assistance disclosures remain visible. A content license has not been selected.
+
+## How publishing works
+
+GitHub Pages uses **GitHub Actions** as its source. On relevant pushes to `main`, the workflow:
+
+1. Checks out the repository with read-only access and no persisted Git credentials.
+2. Uses Node.js 24 and `npm ci` with the committed lockfile and install scripts disabled.
+3. Builds the seven static pages and checks local files, links, fragments, and content boundaries.
+4. Uploads only `site/dist`, not the repository, private documents, or dependencies.
+5. Deploys the artifact to the `github-pages` environment in a separate, minimally privileged job.
+
+Do not infer successful publication from a push alone. Check the workflow’s deployment result and verify the live homepage and resume page. No paid hosting, custom domain purchase, or external account registration is configured.
+
+## Preview and maintain
+
+See [the site instructions](../site/README.md) to preview locally. Edit the homepage template or the public Markdown sources, not generated `site/dist` files. Run the build and checks before pushing. The preview launcher does not publish.
+
+The repository-specific Git author is Ajay Kakumanu, `ajaykakumanu@outlook.com`; commit metadata is public. From the repository root:
+
+```console
 git status
-git log --oneline -5
+git diff --check
 python scripts/check_portfolio.py
+git push origin main
 ```
 
-The author name and email were selected for this repository. They are part of commit metadata and will be visible when the commits are published.
-
-## Before a remote push
-
-The intended GitHub owner is `ajaykakumanu89`, the repository name is `ajay-kakumanu-portfolio`, and the selected visibility is public. Read the [content review](content-review.md) and inspect what will be shared:
-
-```powershell
-git status
-git show --stat --oneline HEAD
-git remote -v
-```
-
-The original resume, screenshots from LinkedIn, and existing HTML-review project are not included in this repository.
-
-## Connect a GitHub repository
-
-Create an empty public repository named `ajay-kakumanu-portfolio` in the `ajaykakumanu89` GitHub account. Do not initialize it with another README because this local repository already has its initial commit.
-
-The local `origin` remote is configured for the intended repository. After the GitHub repository exists and Git authentication is available:
-
-```powershell
-git push -u origin main
-```
-
-The remote URL is `https://github.com/ajaykakumanu89/ajay-kakumanu-portfolio.git`. A configured remote URL alone does not establish that the repository has been created or uploaded. The push command does not create an account, repository, or public website.
-
-## Website
-
-The Markdown files are readable directly on GitHub. A separate website can be added later. No deployment workflow, hosting charges, domain purchase, or automatic publication is configured in this starter.
+Review [the content boundaries](content-review.md) before adding new material. Do not upload employer documents or confidential samples without appropriate sharing approval.

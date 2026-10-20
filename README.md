@@ -66,6 +66,10 @@ This checks local Markdown file links and required portfolio files. It does not 
 
 Based in Hyderabad, India.
 
+## Static website
+
+A static website presents the portfolio and renders the public Markdown samples as readable documentation pages. Website address: [ajaykakumanu89.github.io/ajay-kakumanu-portfolio](https://ajaykakumanu89.github.io/ajay-kakumanu-portfolio/). See [the site setup and preview instructions](site/README.md). No confidential DocFusion content is included.
+
 ## Publication status
 
-This portfolio is prepared for public sharing on GitHub under `ajaykakumanu89/ajay-kakumanu-portfolio`. The sample review status is listed above. A public website and content license have not been selected. See [publishing instructions](docs/publishing.md) and the [content review](docs/content-review.md).
+This portfolio is public on GitHub under `ajaykakumanu89/ajay-kakumanu-portfolio`. The [GitHub Pages workflow](.github/workflows/pages.yml) builds and checks the site before deploying generated static files. The sample review status is listed above; a content license has not been selected. See [publishing instructions](docs/publishing.md) and the [content review](docs/content-review.md).
